@@ -1,3 +1,5 @@
+apt upgrade
+apt update
 pkg update
 pkg upgrade
 pkg install wget
